@@ -1,0 +1,10 @@
+{
+  "name": "dbx",
+  "version": "1.0.0",
+  "description": "Cross-platform database client",
+    "dev": "vite",
+    "build": "vite build",
+    "tauri": "tauri"
+    "vue": "^3.3.0",
+    "tauri": "^1.5.0"
+}
